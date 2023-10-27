@@ -1,7 +1,7 @@
 import React from "react";
 import ProductCard from "./ProductCard";
 import './App.css'; 
-import Header from "./header";
+import Header from "./Header";
 
 
 
